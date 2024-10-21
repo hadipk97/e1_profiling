@@ -53,7 +53,7 @@ if (isset($_POST['simpan_daftar'])) {
   $sql = "INSERT INTO [jim].[dbo].[mapk_daftar] 
 			([negeri]
 			,[stesen]
-      ,[id_fir]
+      ,[fir]
       ,[repot]
       ,[tarikh_kejadian]
       ,[masa_kejadian]
@@ -82,6 +82,7 @@ if (isset($_POST['simpan_daftar'])) {
       ,'$tempoh'
       ,'$pegawai'
       ,'$telefon')";
+
   $sql2 = "INSERT INTO [jim].[dbo].[admin] 
 			([id_fir],
        [cs_status],

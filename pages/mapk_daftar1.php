@@ -1,5 +1,5 @@
 <?php include('include/dbconn.php');
-$sql = "SELECT * FROM [jim].[dbo].[mapk_daftar] WHERE id_fir = '$_SESSION[id_fir]'";
+$sql = "SELECT * FROM [jim].[dbo].[mapk_daftar] WHERE fir = '$_SESSION[id_fir]'";
 $stmt = sqlsrv_query($conn, $sql);
 if ($stmt == false) {
 }
