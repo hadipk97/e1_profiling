@@ -1,0 +1,16 @@
+<option value="KENDERAAN SUBJECT MATTERS">KENDERAAN SUBJECT MATTERS</option>
+<option value="KENDERAAN USED IN SUBMISSION">KENDERAAN USED IN SUBMISSION</option>
+<option value="ROKOK PUTIH">ROKOK PUTIH</option>
+<option value="ROKOK KRETEK">ROKOK KRETEK</option>
+<option value="DADAH">DADAH</option>
+<option value="DADAH PRECURSOR">DADAH PRECURSOR</option>
+<option value="MINUMAN KERAS">MINUMAN KERAS</option>
+<option value="MINUMAN KERAS-BIR">MINUMAN KERAS-BIR</option>
+<option value="TEKSTIL">TEKSTIL</option>
+<option value="MERCUN DAN BUNGA API">MERCUN DAN BUNGA API</option>
+<option value="BERAS">BERAS</option>
+<option value="MATAWANG">MATAWANG</option>
+<option value="TAYAR">TAYAR</option>
+<option value="TILES">TILES</option>
+<option value="TEMBAKAU">TEMBAKAU</option>
+<option value="KOMODITI LAIN LAIN">KOMODITI LAIN LAIN</option>

@@ -1,0 +1,12 @@
+                    <option value="Witness">Witness</option>
+                    <option value="Informant">Informant</option>
+                    <option value="Victim">Victim</option>
+                    <option value="Link Syndicate">Link Syndicate</option>
+                    <option value="Suspect">Suspect</option>
+                    <option value="Smuggler">Smuggler</option>
+                    <option value="Trafficker">Trafficker</option> 
+                    <option value="Fasilitator/Carrier">Fasilitator/Carrier</option>
+                    <option value="Fraudulent">Fraudulent</option> 
+                    <option value="Impostor">Impostor</option>
+                    <option value="Others">Others</option>
+                    <option value="Unknown">Unknown</option>

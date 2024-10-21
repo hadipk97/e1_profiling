@@ -1,0 +1,11 @@
+				<option value="Intel 1">Intel 1</option>
+                                <option value="Intel 2">Intel 2</option>
+                                <option value="Intel 3">Intel 3</option>
+                                <option value="Intel 4">Intel 4</option>
+                                <option value="Intel 5">Intel 5</option>
+                                <option value="Intel 6">Intel 6</option>
+                                <option value="Special Team">Special Team</option>
+                                <option value="Monitoring/Survelliance Team">Monitoring/Survelliance Team</option>
+                                <option value="Task Force Team">Task Force Team</option>
+                                <option value="Join Task Force Team">Join Task Force Team</option>
+                                <option value="Others">Others</option>

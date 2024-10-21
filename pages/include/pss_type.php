@@ -1,0 +1,12 @@
+                    <option value="Border Pass Malaysia (Indonesia)">Border Pass Malaysia (Indonesia)</option>
+                    <option value="Border Pass Malaysia (Thailand)">Border Pass Malaysia (Thailand)</option>
+                    <option value="Collective Travel Document">Collective Travel Document</option>
+                    <option value="Diplomatic Passport">Diplomatic Passport</option>
+                    <option value="Document in Lieu of Internal Travel Document">Document in Lieu of Internal Travel Document</option>
+                    <option value="Emergency Certificate">Emergency Certificate</option>
+                    <option value="International Passport">International Passport</option>
+                    <option value="Official Passport">Official Passport</option>
+                    <option value="Restricted Passport to Brunei">Restricted Passport to Brunei</option>
+                    <option value="Restricted Travel Document">Restricted Travel Document</option>
+                    <option value="Others">Others</option>
+                    <option value="Unknown">Unknown</option>

@@ -1,0 +1,11 @@
+                                <option value="Commercial Crime">Commercial Crime</option>
+                                <option value="Criminal Crime">Criminal Crime</option>
+                                <option value="Drug Crime">Drug Crime</option>
+                                <option value="Fraud Document">Fraud Document</option>
+                                <option value="Gangsterisme">Gangsterisme</option>
+                                <option value="Human Trafficking">Human Trafficking</option>
+                                <option value="Smuggling">Smuggling Migrant</option>
+                                <option value="Terrorisme">Terrorisme</option>
+                                <option value="Political">Political</option>
+                                <option value="Others">Others</option>
+                                <option value="Unknown">Unknown</option>

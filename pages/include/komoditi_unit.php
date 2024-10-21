@@ -1,0 +1,9 @@
+<option value="unit">unit</option>
+<option value="pieces">pieces</option>
+<option value="batang">batang</option>
+<option value="tab">tab</option>
+<option value="mililiter">mililiter</option>
+<option value="liter">liter</option>
+<option value="gram">gram</option>
+<option value="kilogram">kilogram</option>
+<option value="meter">meter</option>
